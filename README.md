@@ -55,3 +55,7 @@ iteration         13:  Pi = 3.141592653589793
 iteration         14:  Pi = 3.141592653589793
 iteration         15:  Pi = 3.141592653589793
 ```
+
+## TensorBoard Screenshot
+
+![TensorBoard Screenshot](github/tensorboard.png)
